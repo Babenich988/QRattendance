@@ -60,6 +60,7 @@ input[type="text"] {
 #scanned-data {
   margin: 20px auto;
   padding: 10px;
+  color: black;
   background-color: #e9f7e9;
   border: 1px solid #ccc;
   border-radius: 8px;
@@ -74,3 +75,4 @@ input[type="text"] {
   margin-top: 15px;
   color: green;
 }
+
